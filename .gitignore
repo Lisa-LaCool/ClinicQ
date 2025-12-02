@@ -1,0 +1,33 @@
+# -----------------------------
+# IntelliJ IDEA
+# -----------------------------
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# -----------------------------
+# PHP / XAMPP / Composer
+# -----------------------------
+vendor/
+*.log
+*.cache
+*.sql
+*.sqlite
+*.env
+
+# -----------------------------
+# OS generated files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Existing ignored files
+# -----------------------------
+/shelf/
+/workspace.xml
+/httpRequests/
+/mavenHomeManager.xml
+/dataSources/
+/dataSources.local.xml
